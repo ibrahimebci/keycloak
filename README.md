@@ -1,5 +1,4 @@
 ![Keycloak](https://github.com/keycloak/keycloak-misc/blob/main/logo/logo.svg)
-
 ![GitHub Release](https://img.shields.io/github/v/release/keycloak/keycloak?label=latest%20release)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6818/badge)](https://bestpractices.coreinfrastructure.org/projects/6818)
 ![GitHub Repo stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat)
